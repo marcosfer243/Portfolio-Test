@@ -14,7 +14,8 @@
     "cors": "^2.8.5",
     "debug": "^4.3.3",
     "dotenv": "^16.0.0",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "vercel": "^28.5.6"
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
