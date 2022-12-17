@@ -32,11 +32,10 @@ const projects = [
   },
   {
     id: 4,
-    title: "Binary converter",
-    description: `Convert binary to decimal numbers and decimal numbers to binary. Reset the inputs and swap the converts. This project was developed using array methods as split, reverse, forEach, reduce.
-    Tecnologies: Html5, Css3, Vanilla Javascript, DOM.`,
-    image: "https://i.ibb.co/hs0gcnW/bonaryconverter.png",
-    url: "https://github.com/farbuscoder/Binary-converter",
+    title: "Go-scrum",
+    description: `Create tasks and order them depending on their necessity`,
+    image: "https://i.ibb.co/C5ZG23Y/tutarea.png",
+    url: "https://github.com/farbuscoder/Go-scrum",
   },
 ];
 
