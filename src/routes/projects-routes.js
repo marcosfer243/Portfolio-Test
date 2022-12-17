@@ -33,7 +33,7 @@ const projects = [
   {
     id: 4,
     title: "Go-scrum",
-    description: `Create tasks and order them depending on their necessity`,
+    description: `Create tasks and order them depending on their necessity, Tecnologies: React.js, formik, yup, css, node.js, Redux, React Redux, framer-motion`,
     image: "https://i.ibb.co/C5ZG23Y/tutarea.png",
     url: "https://github.com/farbuscoder/Go-scrum",
   },
