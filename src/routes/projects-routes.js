@@ -8,9 +8,9 @@ const projects = [
   {
     id: 1,
     title: "Stocky-app",
-    description: `Add new products, edit their properties and delete them. Fetching great Spoonacular api. Learn more clicking on more button.
-    Login was implemented using React google login. %100 Responsive`,
-    tecnologies: `ReactJs, SweetAlert2, Node.js, Express, Axios, ApiContext, MongodbAtlas.`,
+    description: `Add new products, edit and delete them.
+    %100 Responsive. Downlaod the products table in excel format`,
+    tecnologies: `ReactJs, SweetAlert2, Node.js, Express, Axios, ApiContext, MongodbAtlas, Chart2.js, `,
     image: "https://i.ibb.co/fHBKJS6/stokcy-app.png",
     url: "https://github.com/farbuscoder/stocky-app-farbuscoder",
   },
@@ -18,7 +18,7 @@ const projects = [
     id: 2,
     title: "Foddit",
     description: `Search and add to menu cart your preferred dishes`,
-    tecnologies: `Html5, Css3, Bootstrap, SweetAlert2, Javascript, React, Api Context, Axios.`,
+    tecnologies: `React Js, SweetAlert, Api Context, Axios, Api Fetching`,
     image: "https://i.ibb.co/7zmCB2J/fooddit2.png",
     url: "https://github.com/farbuscoder/Challenge-frontend-Alkemy",
   },
@@ -34,7 +34,7 @@ const projects = [
     id: 4,
     title: "Go-scrum",
     description: `Create tasks and order them depending on their necessity`,
-     Tecnologies: `React.js, formik, yup, css, node.js, Redux, React Redux, framer-motion`,
+    tecnologies: `React.js, formik, yup, css, node.js, Redux, React Redux, framer-motion`,
     image: "https://i.ibb.co/C5ZG23Y/tutarea.png",
     url: "https://github.com/farbuscoder/Go-scrum",
   },
